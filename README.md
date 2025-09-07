@@ -1,8 +1,7 @@
 # Hi, I'm Venkat Chiranjeevi Reddy! 👋  
 I'm an **AI/ML Enthusiast** passionate about **Generative AI, Large Language Models (LLMs), Agentic AI, and RAG (Retrieval-Augmented Generation)**. 🚀🤖  
 
-I specialize in building **multi-agent systems, intelligent chatbots, neuro-symbolic AI models, and scalable cloud-deployed solutions**.  
-Always exploring new ways to push the limits of AI. 💡✨  
+I specialize in building multi-agent systems, intelligent chatbots, neuro-symbolic AI models, and advanced ML & DL solutions. Always exploring new ways to push the limits of AI. 💡✨ 
 
 ---
 
