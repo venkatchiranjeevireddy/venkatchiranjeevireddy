@@ -48,7 +48,6 @@ Investment planning chatbot using **Groq API + Gradio**, specialized in mutual f
 
 ## 📫 Let's Connect!  
 👔 [LinkedIn](https://www.linkedin.com/in/venkat-chiranjeevi-reddy-basireddy/)  
-💻 [GitHub](https://github.com/venkatchiranjeevireddy)  
 📧 Emailmailto:basireddy.chiru@gmail.com 
 
 ---
