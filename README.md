@@ -27,7 +27,7 @@ Always exploring new ways to push the limits of AI. 💡✨
 
 ---
 
-## 🌟 Projects I'm Proud Of  
+## 🌟 What I’ve Built 
 
 🤖 **Nexus Intelligence**  
 Multi-agent **business intelligence system** for automated competitor analysis & strategic insights.  
@@ -44,19 +44,13 @@ LLM-powered assistant with **FAISS + LangGraph**, enabling domain-specific autis
 💰 **Financial Advisory Chatbot**  
 Investment planning chatbot using **Groq API + Gradio**, specialized in mutual funds & SIPs.  
 
----
-
-## 🔧 Currently Crafting  
-- ⚡ Improving **zero-shot reasoning** in LLMs with **multi-agent workflows**  
-- 🔍 Exploring **LLM fine-tuning, distillation & model compression**  
-- 🧠 Combining **symbolic reasoning + neural models** for hybrid AI  
 
 ---
 
 ## 📫 Let's Connect!  
 👔 [LinkedIn](https://www.linkedin.com/in/venkat-chiranjeevi-reddy-basireddy/)  
 💻 [GitHub](https://github.com/venkatchiranjeevireddy)  
-📧 [Email](mailto:basireddy.chiru@gmail.com)  
+📧 Emailmailto:basireddy.chiru@gmail.com 
 
 ---
 
